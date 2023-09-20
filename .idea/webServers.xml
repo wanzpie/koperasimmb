@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8270f699-df4d-422a-a4a6-5cf1d37dd269" name="licenza">
+        <fileTransfer rootFolder="/home/admin/public_html/licenza" accessType="SFTP" host="192.168.200.2" port="22" sshConfigId="c812e415-1e00-4d12-939a-5c455e6ea0aa" sshConfig="admin@192.168.200.2:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
